@@ -7,9 +7,9 @@ The Sui CLI (`sui`) is the primary command-line interface for interacting with t
 | Command              | Purpose |
 |----------------------|---------|
 | [`sui client`](move/sui_client.md) | Core operations: addresses, gas, transactions, faucets, and network management |
-| `sui client ptb`     | Build and execute Programmable Transaction Blocks (PTBs) |
+| [`sui client ptb`](move/sui_client.md#6-programmable-transaction-blocks-sui-client-ptb) | Build and execute Programmable Transaction Blocks (PTBs) |
 | [`sui move`](move/sui_move.md) | Move language tools: create, build, test, and manage packages |
-| `sui keytool`        | Key generation, import, conversion, and management |
+| [`sui keytool`](move/sui_keytool.md) | Key generation, import, conversion, and management |
 | `sui start`          | Start a local Sui development network |
 | `sui genesis`        | Initialize a new Sui network |
 | `sui replay`         | Replay and debug transactions |

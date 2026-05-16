@@ -8,6 +8,6 @@ The Ultimate Cheatsheet is a central repository for links and quick references. 
     1. [Flatpak](linux/flatpak.md)
 1. Windows
 1. Languages
-    1. Move
+    1. [Move](langs/move.md)
     1. Python
     1. Rust

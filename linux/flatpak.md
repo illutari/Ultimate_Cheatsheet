@@ -2,7 +2,7 @@
 
 Flatpak is a universal package management system for Linux that provides sandboxed application deployment.
 
-**Table of Contents**
+### Table of Contents
 
 1. [Basic Commands](#1-basic-commands)
 1. [Searching and Installing Applications](#2-searching-and-installing-applications)

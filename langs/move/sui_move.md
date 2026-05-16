@@ -97,3 +97,7 @@ The `sui move` command provides tools for creating, building, testing, and manag
 - Move on Sui: https://docs.sui.io/develop/write-move
 
 For the most up-to-date information, run sui move --help locally.
+
+---
+
+*Previous Page: [`Sui CLI Basic Summary`](../move.md)*

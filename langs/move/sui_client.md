@@ -114,3 +114,7 @@ sui client ptb --publish . --gas-budget 1000000000
 - Full Sui CLI Docs: https://docs.sui.io/references/cli
 
 For the most up-to-date list, run `sui client --help` or `sui client ptb --help`.
+
+---
+
+*Previous Page: [`Sui CLI Basic Summary`](../move.md)*

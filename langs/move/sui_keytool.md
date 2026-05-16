@@ -73,3 +73,7 @@ sui keytool export my_wallet
 - Sui CLI Cheatsheet: https://docs.sui.io/references/cli/cheatsheet
 
 For the most up-to-date information, run `sui keytool --help`.
+
+---
+
+*Previous Page: [`Sui CLI Basic Summary`](../move.md)*

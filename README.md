@@ -5,6 +5,7 @@ The Ultimate Cheatsheet is a central repository for links and quick references. 
 ## Where do I begin?
 
 1. Linux
+    1. [FFmpeg](linux/ffmpeg.md)
     1. [Flatpak](linux/flatpak.md)
 1. Windows
 1. Languages
